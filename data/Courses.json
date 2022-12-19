@@ -1,0 +1,88 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "01",
+        "title": "Data structure & Algorithms",
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNJpGr8uctzJyDTs7QNYSYsi3CkibC4zHGm7FpqvK1&s",
+        "details": "Data Structures are the programmatic way of storing data so that data can be used efficiently. Almost every enterprise application uses various types of data structures in one or the other way. This tutorial will give you a great understanding on Data Structures needed to understand the complexity of enterprise level applications and need of algorithms, and data structures."
+    },
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71011",
+      "category_id": "01",
+      "title": "Operating System",
+      "image_url": "https://miro.medium.com/max/360/1*rk1o0WQWtR1tEGcsEMIpEQ.png",
+      "details": "Introduction to Operating Systems is a graduate-level introductory course in operating systems. This course teaches the basic operating system abstractions, mechanisms, and their implementations. The core of the course contains concurrent programming (threads and synchronization), inter process communication, and an introduction to distributed operating systems. The course is split into four sections: (1) Introduction, (2) Process and Thread Management, (3) Resource Management and Communication, and (4) Distributed Systems."
+    },
+
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71012",
+      "category_id": "02",
+      "title": "Computer Networking",
+      "image_url": "https://media.istockphoto.com/photos/home-solution-wifi-devices-network-picture-id184281306?k=20&m=184281306&s=612x612&w=0&h=MjaGtOWzkZmAy6LIPkeW6nke820moE9lB8a0BTLV548=",
+      "details": "A computer network is a group of computers that use common communication protocols like TCP/IP over digital interconnections to share resources. It allows establishing a connection using cables or wireless media. Every network involves hardware and software that connect computers and other devices.The knowledge of Computer Networks and Networking is a very in-demand skill in the market. With the rise in the use of computers in every industry, there is also a high demand for skilled Computer Networking professionals. There are many online networking courses available that help you learn Computer Networking and provide certification."
+    },
+    {
+      "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+      "category_id": "02",
+      "title": "Computer Architecture",
+      "image_url": "https://www.sigarch.org/wp-content/uploads/2017/03/Welcome-1080x675.jpg",
+      "details": "Modern computer technology requires an understanding of both hardware and software, since the interaction between the two offers a framework for mastering the fundamentals of computing. The purpose of this course is to cultivate an understanding of modern computing technology through an in-depth study of the interface between hardware and software. In this course, you will study the history of modern computing technology before learning about modern computer architecture and a number of its essential features, including instruction sets, processor arithmetic and control, the Von architecture, pipelining, memory management, storage, and other input/output topics. The course will conclude with a look at the recent switch from sequential processing to parallel processing by looking at the parallel computing models and their programming implications."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "category_id": "03",
+      "title": "C#",
+      "image_url": "https://miro.medium.com/max/1400/1*cog9iiFl_3wLBn_n6JfvBA.png",
+      "details": "C# is a simple & powerful object-oriented programming language developed by Microsoft. C# can be used to create various types of applications, such as web, windows, console applications, or other types of applications using Visual studio."
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f9",
+    "category_id": "03",
+    "title": "Java",
+    "image_url": "https://www.jrebel.com/sites/default/files/image/2020-05/image-blog-revel-top-java-tools.jpg",
+    "details": "Take a top-rated Java course, to gain in-demand skills. Learn how to build with Java using the latest and greatest tools and techniques. Real-world experts give you training, resources, and coding exercises to help you grow your knowledge."
+  },
+  {
+    "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+    "category_id": "04",
+    "title": "Back End Development",
+    "image_url": "https://ddi-dev.com/uploads/backend-is.png",
+    "details": "No matter what you’re building, having a strong foundation is crucial — that’s where back-end engineers come in. In this Career Path, you’ll start with programming servers and client-side interfaces, then level up to designing databases. By the end, you’ll have everything you need to start your career as a back-end engineer"
+  },
+  {
+    "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+    "category_id": "04",
+    "title": "Front end Development",
+    "image_url": "https://image.shutterstock.com/image-vector/front-end-development-web-application-260nw-521164462.jpg",
+    "details": "Front-end engineers work closely with designers to make websites beautiful, functional, and fast. This Career Path will teach you not only the necessary languages and technologies, but how to think like a front-end engineer, too. By the end, you'll have the portfolio and interview skills you need to start your new career."
+  },
+  {
+    "_id": "f06f8cc035b04bd1158e4198281915a3",
+    "category_id": "05",
+    "title": "Deep Learning",
+    "image_url": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Deep_Learning_Applications.jpg",
+    "details": "The Deep Learning Specialization is a foundational program that will help you understand the capabilities, challenges, and consequences of deep learning and prepare you to participate in the development of leading-edge AI technology.In this Specialization, you will build and train neural network architectures such as Neural Networks, Recurrent Neural Networks, Transformers, and learn how to make them better with strategies such as Dropout, BatchNorm, Xavier/He initialization, and more. Get ready to master theoretical concepts and their industry applications using Python and TensorFlow and tackle real-world cases such as speech recognition, music synthesis, machine translation, natural language processing, and more"
+  },
+  {
+    "_id": "f06f8cc035b04bd1158e4198281915a4",
+    "category_id": "05",
+    "title": "Machine Learning",
+    "image_url": "https://thumbs.dreamstime.com/b/machine-learning-technology-artificial-intelligence-modern-manufacturing-144923304.jpg",
+    "details": "Machine Learning is the study of how to build computer systems that learn from experience. It is a subfield of Artificial Intelligence and intersects with statistics, cognitive science, information theory, and probability theory, among others. The course will explain how to build systems that learn and adapt using examples from real-world applications."
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f0",
+    "category_id": "06",
+    "title": "Embedded System",
+    "image_url": "https://static1.shine.com/l/m/images/blog/Embedded_System_Intro_Types_Applications_Architecture_and_Examples.jpg",
+    "details": "Discover better career opportunities on Embedded Systems to create modern smart technologies of day to day life. Soft logic Systems provide deep insights with the comprehensive Embedded Systems course syllabus as per industry standards and we focus more on hands-on practicals. We provide course completion certificate and placement guidance to the right candidates in our Embedded Training Institute"
+  },
+  {
+    "_id": "a713ee936ff5574273f0f769f5c5b20e",
+    "category_id": "06",
+    "title": "Nano Technology",
+    "image_url": "https://i.ytimg.com/vi/uUDWK4MGcr0/maxresdefault.jpg",
+    "details": "Nanotechnology is a fast-growing interdisciplinary scientific field leading to applications in a wide range of science and engineering fields. This course provides a background of the understanding,motivation, implementation, impact, future, and implications of nanotechnology. During this course,you will discuss specific applications of nanotechnology in biomedical fields, environmental solutions, and electronic devices.This course provides a foundational introduction to nanotechnology. We will discuss the growth of nanotechnology, including the tools used and processes developed utilizing the top-down and bottom-up approaches. The course will conceptually introduce you to the utilization of technologies incorporated from an array of science and engineering fields towards novel solutions to pressing scientific problems."
+  }
+
+]
